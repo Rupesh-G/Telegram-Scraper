@@ -1,23 +1,5 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/th3unkn0n/TeleGram-Scraper/master/.image/20191203_205322.jpg" width="470" height="150">
-</p>
-
-<p align="center"><img src="https://img.shields.io/badge/Version-3.1-brightgreen"></p>
-<p align="center">
-  <a href="https://github.com/th3unkn0n">
-    <img src="https://img.shields.io/github/followers/th3unkn0n?label=Follow&style=social">
-  </a>
-  <a href="https://github.com/th3unkn0n/TeleGram-Group-Scraper">
-    <img src="https://img.shields.io/github/stars/th3unkn0n/TeleGram-Group-Scraper?style=social">
-  </a>
-</p>
-<p align="center">
-  Telegram Group Scrapper
-</p>
-<p align="center">
-</p>
-
----
+## CREDITS : THIS REPO IS INSPIRED FROM https://github.com/th3unkn0n/TeleGram-Scraper.
+## I have done few changes for myself.
 
 ## • API Setup
 * Go to http://my.telegram.org  and log in.
@@ -29,9 +11,9 @@
 
 `$ pkg install -y git python`
 
-`$ git clone https://github.com/th3unkn0n/TeleGram-Scraper.git`
+`$ git clone https://github.com/Rupesh-G/Telegram-Scrapper.git`
 
-`$ cd TeleGram-Scraper`
+`$ cd Telegram-Scrapper`
 
 * Install requierments
 

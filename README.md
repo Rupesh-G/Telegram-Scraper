@@ -11,9 +11,9 @@
 
 `$ pkg install -y git python`
 
-`$ git clone https://github.com/Rupesh-G/Telegram-Scrapper.git`
+`$ git clone https://github.com/Rupesh-G/Telegram-Scraper.git`
 
-`$ cd Telegram-Scrapper`
+`$ cd Telegram-Scraper`
 
 * Install requierments
 

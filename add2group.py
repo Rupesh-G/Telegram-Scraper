@@ -112,7 +112,7 @@ for i in range(n, len(users)):
         
         client(InviteToChannelRequest(target_group_entity, [user_to_add]))
         print("[+] Waiting for 30 Seconds...")
-        time.sleep(random.randrange(25, 35))
+        time.sleep(random.randrange(180, 190))
     except PeerFloodError:
         print("[!] Getting Flood Error from telegram. \n[!] Script is stopping now. \n[!] Please try again after some time.")
         sys.exit()
